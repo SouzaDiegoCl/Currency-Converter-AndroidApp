@@ -9,7 +9,10 @@ Esse conversor utiliza freecurrencyapi - API de cotação de moedas;
 - Gradle
 
 ## Funcionamento
-<!-- ![Endpoint Get](https://github.com/SouzaDiegoCl/workshop-springboot3-jpa/blob/main/assets/endpoint_users_get.png) -->
+<p align="center">
+ <img src="https://github.com/SouzaDiegoCl/Currency-Converter-AndroidApp/blob/main/UTILS/exampleReadme.jpeg" width="250"> 
+</p>
+
 
 
 
