@@ -1,2 +1,2 @@
-# Currency-Converter---AndroidApp
-Currency - Converting one currency to another 
+# Currency Converter AndroidApp
+Converting one currency to another 
