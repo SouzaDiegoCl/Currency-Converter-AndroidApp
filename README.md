@@ -2,7 +2,8 @@
  Converting one currency to another 
 </br>
 Conversor de moedas.
-Esse conversor utiliza freecurrencyapi - API de cotação de moedas;
+Esse conversor utiliza freecurrencyapi - API de cotação de moedas </br>
+https://freecurrencyapi.com/
 
 ## Tecnologias utilizadas
 - Java
