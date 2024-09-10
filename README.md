@@ -1,13 +1,11 @@
 # Currency Converter AndroidApp
- Converting one currency to another 
-</br>
-Conversor de moedas.
-Esse conversor utiliza freecurrencyapi - API de cotação de moedas </br>
-https://freecurrencyapi.com/
+    Converting one currency to another 
+    Esse conversor utiliza freecurrencyapi - API de cotação de moedas 
+    https://freecurrencyapi.com/
 
 ## Tecnologias utilizadas
-- Java
-- Gradle
+    - Java
+    - Gradle
 
 ## Funcionamento
 <p align="center">
