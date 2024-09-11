@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
                 HttpsURLConnection conn = null;
                 URL url;
                 try {
-                    final String API_KEY = "fca_live_hI70iLBzosDalZrsSBad2zwVIYavjnKAlRf4xqYQ&currencies";
+                    final String API_KEY = "INSERT API KEY HERE";
                     url = new URL("https://api.freecurrencyapi.com/v1/latest?apikey="+ API_KEY +"=" + currency_target + "&base_currency="+currency_base);
                     conn = (HttpsURLConnection) url.openConnection();
 
