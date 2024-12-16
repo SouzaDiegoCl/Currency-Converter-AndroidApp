@@ -15,7 +15,7 @@ This Program uses [freecurrencyapi](https://freecurrencyapi.com/)
 
 
 
-## Autor
+## Author
  [Diego Baltazar de Souza Claudio](https://github.com/SouzaDiegoCl)
 
 www.linkedin.com/in/diegosouzaperfil
